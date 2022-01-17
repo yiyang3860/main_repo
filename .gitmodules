@@ -1,0 +1,3 @@
+[submodule "vendor/gems/submodule_repo"]
+	path = vendor/gems/submodule_repo
+	url = git@github.com:yiyang3860/submodule_repo.git
